@@ -3,3 +3,4 @@ this is training for deloitte front end tech stack.
 
 this is dev1
 merging the branches
+this is newly modified text
